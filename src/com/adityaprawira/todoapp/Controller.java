@@ -1,6 +1,8 @@
 package com.adityaprawira.todoapp;
 
 import com.adityaprawira.todoapp.datamodel.TodoItem;
+import javafx.beans.value.ChangeListener;
+import javafx.beans.value.ObservableValue;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 import javafx.scene.control.ListView;
@@ -38,8 +40,22 @@ public class Controller {
         todoItems.add(item2);
         todoItems.add(item3);
 
+        // Change details when selecting different item,
+        // and will select the very first todo item when the application started
+        todoListView.getSelectionModel().selectedItemProperty().addListener(new ChangeListener<TodoItem>() {
+            @Override
+            public void changed(ObservableValue<? extends TodoItem> observableValue, TodoItem oldValue, TodoItem newValue) {
+                if(newValue != null){
+                    TodoItem item = todoListView.getSelectionModel().getSelectedItem();
+                    itemDetailsTextArea.setText(item.getDetails());
+
+                    deadlineLabel.setText(item.getDeadline().toString());
+                }
+            }
+        });
         todoListView.getItems().setAll(todoItems);
         todoListView.getSelectionModel().setSelectionMode(SelectionMode.SINGLE);
+        todoListView.getSelectionModel().selectFirst();
     }
 
     @FXML

@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72eda640-4be5-45e5-94f2-96634bc5f5e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/adityaprawira/todoapp/datamodel/TodoItem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/todo-app/com/adityaprawira/todoapp/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/todo-app/com/adityaprawira/todoapp/Controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/todo-app/com/adityaprawira/todoapp/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/todo-app/com/adityaprawira/todoapp/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/todo-app/com/adityaprawira/todoapp/mainwindow.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/todo-app/com/adityaprawira/todoapp/mainwindow.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/adityaprawira/todoapp/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adityaprawira/todoapp/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adityaprawira/todoapp/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adityaprawira/todoapp/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/adityaprawira/todoapp/mainwindow.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adityaprawira/todoapp/mainwindow.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617259126646</updated>
-      <workItem from="1617259134070" duration="2756000" />
+      <workItem from="1617259134070" duration="3713000" />
     </task>
     <servers />
   </component>
@@ -98,21 +95,21 @@
       <screen x="1440" y="22" width="1920" height="1058" />
     </state>
     <state x="2213" y="274" key="#com.intellij.ide.util.MemberChooser/0.22.1440.878/1440.22.1920.1058@1440.22.1920.1058" timestamp="1617260601101" />
-    <state width="768" height="189" key="GridCell.Tab.0.bottom" timestamp="1617261927776">
+    <state width="768" height="189" key="GridCell.Tab.0.bottom" timestamp="1617262767060">
       <screen x="1440" y="22" width="1920" height="1058" />
     </state>
-    <state width="768" height="189" key="GridCell.Tab.0.bottom/0.22.1440.878/1440.22.1920.1058@1440.22.1920.1058" timestamp="1617261927776" />
-    <state width="768" height="189" key="GridCell.Tab.0.center" timestamp="1617261927775">
+    <state width="768" height="189" key="GridCell.Tab.0.bottom/0.22.1440.878/1440.22.1920.1058@1440.22.1920.1058" timestamp="1617262767060" />
+    <state width="768" height="189" key="GridCell.Tab.0.center" timestamp="1617262767058">
       <screen x="1440" y="22" width="1920" height="1058" />
     </state>
-    <state width="768" height="189" key="GridCell.Tab.0.center/0.22.1440.878/1440.22.1920.1058@1440.22.1920.1058" timestamp="1617261927775" />
-    <state width="768" height="189" key="GridCell.Tab.0.left" timestamp="1617261927774">
+    <state width="768" height="189" key="GridCell.Tab.0.center/0.22.1440.878/1440.22.1920.1058@1440.22.1920.1058" timestamp="1617262767058" />
+    <state width="768" height="189" key="GridCell.Tab.0.left" timestamp="1617262767057">
       <screen x="1440" y="22" width="1920" height="1058" />
     </state>
-    <state width="768" height="189" key="GridCell.Tab.0.left/0.22.1440.878/1440.22.1920.1058@1440.22.1920.1058" timestamp="1617261927774" />
-    <state width="768" height="189" key="GridCell.Tab.0.right" timestamp="1617261927776">
+    <state width="768" height="189" key="GridCell.Tab.0.left/0.22.1440.878/1440.22.1920.1058@1440.22.1920.1058" timestamp="1617262767057" />
+    <state width="768" height="189" key="GridCell.Tab.0.right" timestamp="1617262767059">
       <screen x="1440" y="22" width="1920" height="1058" />
     </state>
-    <state width="768" height="189" key="GridCell.Tab.0.right/0.22.1440.878/1440.22.1920.1058@1440.22.1920.1058" timestamp="1617261927776" />
+    <state width="768" height="189" key="GridCell.Tab.0.right/0.22.1440.878/1440.22.1920.1058@1440.22.1920.1058" timestamp="1617262767059" />
   </component>
 </project>
